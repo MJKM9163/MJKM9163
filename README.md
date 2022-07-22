@@ -1,5 +1,5 @@
 <div align=center>
-:wave::wave: 반갑습니다! :wave::wave:
+:wave::wave::wave: 반갑습니다! :wave::wave::wave:
 <!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=61DAFB&height=100&section=header&text=꾸미는%20중&fontSize=60" /> -->
 
 #### 블록체인 기술을 전문적으로 다루는 <u>프론트엔드 개발자</u>가 되기 위해 공부 중입니다!
