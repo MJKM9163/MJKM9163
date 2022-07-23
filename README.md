@@ -8,7 +8,7 @@
 <a href="https://green-consonant-515.notion.site/9a88fdbad2394fb0b5a30df3221458f5?v=bc4ae03b7b554c1face6d482003c8f66">
 <img src="https://img.shields.io/badge/Notion공부기록-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
-#####  :zap:  현재 사용 가능한 기술 스택
+#####  :zap:  현재 사용 가능한 기술 스택  :zap:
   
 <img src="https://img.shields.io/badge/javaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
