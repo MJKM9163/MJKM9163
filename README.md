@@ -1,9 +1,9 @@
 <div align=center>
 :wave::wave::wave: 반갑습니다! :wave::wave::wave:
 <!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=61DAFB&height=100&section=header&text=꾸미는%20중&fontSize=60" /> -->
-
-#### 블록체인 기술을 전문적으로 다루는 개발자가 되기 위해 공부 중입니다!
-##### <span style="color: #808080">(소근)그래픽에도 관심있습니다!</span>
+  
+#### 인터렉티브 웹 개발을 매우 좋아합니다.
+#### 블록체인 기술에 관심이 있습니다.
 
 &nbsp;
 
@@ -21,4 +21,8 @@
 <img src="https://img.shields.io/badge/Three-000000?style=flat-square&logo=three.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Solidity-000000?style=flat-square&logo=solidity&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+  
+&nbsp;
+✔Three.js보단 React Three Fiber를 더 잘 다룹니다.
+  
 </div>
